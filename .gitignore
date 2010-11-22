@@ -1,6 +1,6 @@
-*.orig
 nbproject/private
 pkg
+*.gem
 *.orig
 *.rej
 *.patch
@@ -12,3 +12,5 @@ core
 lib/ffi/types.conf
 lib/ffi_c.bundle
 lib/ffi_c.so
+*.tmproj
+
